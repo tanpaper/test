@@ -1,0 +1,9 @@
+{
+    // 配置字体连字或字体特性。可以是用于启用/禁用连字的布尔值，或用于设置 CSS "font-feature-settings" 属性值的字符串。
+    "editor.fontLigatures": false,
+    //
+    "git.path": "/usr/bin/git",
+    // 控制是否在编辑器中输入时自动重命名。
+    // 控制编辑器是否已启用链接编辑。相关符号(如 HTML 标记)在编辑时进行更新，具体由语言而定。
+    "editor.linkedEditing": true,
+}
